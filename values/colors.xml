@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1aa3b5</color>
+    <color name="colorPrimaryDark">#1aa3b5</color>
+    <color name="colorAccent">#000000</color>
+    <color name="customPrimaryDark">#1BBFC0</color>
+    <color name="white">#ffffff</color>
+    <color name="bgBottomNavigation">#2e7bc6</color>
+    <color name="darkblue">#0c254e</color>
+    <color name="transparent">#40ffffff</color>
+
+
+</resources>
